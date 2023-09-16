@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CLionExternalBuildManager">
-    <target id="48a13457-749a-4565-ae8b-5ceda313a187" name="test_OpenCL" defaultType="MAKE">
-      <configuration id="da415e43-42d8-4b51-a400-c46226f455f9" name="test_OpenCL" />
-    </target>
-  </component>
-</project>
