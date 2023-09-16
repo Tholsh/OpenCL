@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="fc45fc1b-c87b-4909-b265-63decb17127b" name="OPenCL_msPDT" defaultType="MAKE">
+      <configuration id="11b5a293-d88d-4d2e-8b6b-de32cd8ad514" name="OPenCL_msPDT">
+        <build type="MAKE">
+          <make targetName="all" />
+        </build>
+        <clean type="MAKE">
+          <make targetName="clean" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>
